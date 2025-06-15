@@ -1,0 +1,12 @@
+openpyxl
+streamlit
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+torch
+scikit-learn
+openai
+xlsxwriter
+openrouter
+xlrd
